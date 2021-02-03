@@ -1,6 +1,8 @@
 # Horiseon_site_accessibility
 Undertaking of refactoring of the site to meet accessibility standards
 
+Link to the page: https://10-kp.github.io/Horiseon_site_accessibility/
+
 Installation
     - Created a new repository in GitHib called Horiseon_site_accessibility
     - Copied the SSH Key in "Code"
